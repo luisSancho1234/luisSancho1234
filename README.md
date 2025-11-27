@@ -6,11 +6,11 @@ Me chamo Luis Fernando e é uma honra ter você aqui!
 
 🎓 Bacharel em Sistemas de Informação
 
-🎨 Foco em Front-end e arquitetura de interfaces
-🧠 Experiência com componentização, design systems e boas práticas
-📱 Desenvolvimento mobile com Flutter
-☁️ Conhecimento em Google Cloud
-🗄️ APIs e back-ends com Java + Spring
+🎨 Foco em Front-end e arquitetura de interfaces  
+🧠 Experiência com componentização, design systems e boas práticas  
+📱 Desenvolvimento mobile com Flutter  
+🗄️ APIs e back-ends com Java + Spring  
+☁️ Conhecimento em Google Cloud  
 
 🚀 Tecnologias & Ferramentas
 <p align="left"> <img src="https://skillicons.dev/icons?i=angular,tailwindcss,ts,js,html,css,flutter,dart,java,spring,postgres,git,github,figma,gcp" /> </p>
