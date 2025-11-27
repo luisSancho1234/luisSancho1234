@@ -13,7 +13,7 @@ Me chamo Luis Fernando e é uma honra ter você aqui!
 ☁️ Conhecimento em Google Cloud  
 
 ### 🚀 Tecnologias & Ferramentas
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma,angular,tailwindcss,ts,js,html,css,flutter,dart,java,spring,postgres,git,github,gcp" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,angular,tailwindcss,ts,js,html,css,flutter,dart,java,spring,postgres,git,github,gcp,aws" /> </p>
 
 <!--
 **luisSancho1234/luisSancho1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
