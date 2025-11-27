@@ -2,7 +2,7 @@
 
 Me chamo Luis Fernando e é uma honra ter você aqui!
 
-###🧩 Sobre mim
+### 🧩 Sobre mim
 
 🎓 Bacharel em Sistemas de Informação
 
