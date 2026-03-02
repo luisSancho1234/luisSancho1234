@@ -6,7 +6,7 @@ Me chamo Luis Fernando e é uma honra ter você aqui!
 
 🎓 Bacharel em Sistemas de Informação
 
-🎨 Foco em Front-end atuando com design e desenvolvimento de interfaces  
+🎨 Foco em Front-end, desenvolvo de interfaces intuitivas e fácil manutenabilidade  
 🧠 Experiência com componentização, design systems e boas práticas  
 📱 Desenvolvimento mobile com Flutter  
 🗄️ APIs e back-ends com Java + Spring  
