@@ -10,10 +10,10 @@ Me chamo Luis Fernando e é uma honra ter você aqui!
 🧠 Experiência com componentização, design systems e boas práticas  
 📱 Desenvolvimento mobile com Flutter  
 🗄️ APIs e back-ends com Java + Spring  
-☁️ Conhecimento em Google Cloud  
+☁️ Conhecimento em gerenciadores de nuvem GC, AWS, Azure  
 
 ### 🚀 Tecnologias & Ferramentas
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma,angular,tailwindcss,ts,html,css,flutter,dart,java,spring,postgres,git,github,gcp,aws" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,angular,tailwindcss,ts,html,css,flutter,dart,java,spring,postgres,git,github,gcp,aws,azure" /> </p>
 
 <!--
 **luisSancho1234/luisSancho1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
